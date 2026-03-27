@@ -1,1 +1,1 @@
-Currently empty while I focus on shipping. Will update when I have something worth sharing.
+Placeholder repo for an agent harness I use - might share it later
